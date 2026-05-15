@@ -139,7 +139,6 @@ sales-forecasting-system/
 ├── sales_data.csv                  ← Dataset (4,380 rows)
 ├── requirements.txt                ← Dependencies
 ├── .gitignore                      ← Git ignore rules
-├── LICENSE                         ← MIT License
 └── README.md                       ← This file
 ```
 
@@ -230,16 +229,11 @@ This project demonstrates a **full data science pipeline** — from raw data gen
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
 
 ## 👤 Author
 
-**Your Name**
-📧 your.email@example.com · [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/YOUR_USERNAME)
+**Abhinandan V Huddar**
+📧 abhinandanhuddar622@gmail.com · [LinkedIn](https://www.linkedin.com/in/abhinandan-v-huddar-79a29937a) · [GitHub](https://github.com/abhinandanhuddar622-AB)
 
 ---
 
