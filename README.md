@@ -236,4 +236,4 @@ This project demonstrates a **full data science pipeline** — from raw data gen
 
 ---
 
-⭐ **Star this repo if it helped you!**
+⭐ **If you found this project helpful, please give it a star!**
